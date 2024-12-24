@@ -1,3 +1,9 @@
+body {
+    font-family: Roboto, sans-serif;
+    color: #212121;
+    background-color: #ffffff;
+}
+
 .logo {
     font-family: Raleway;
     font-size: 26px;
@@ -9,11 +15,10 @@
 }
 
 .logo-header {
-   color: #000000;
+    color: #000000;
 }
 
 .header_container--nav a {
-    font-family: Roboto;
     font-size: 14px;
     font-weight: 500;
     line-height: 16.41px;
@@ -22,7 +27,6 @@
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
     text-decoration: none;
-    color: #212121;
 }
 
 .header_container--nav a:hover {
@@ -30,7 +34,6 @@
 }
 
 .header-address a {
-    font-family: Roboto;
     font-size: 14px;
     font-weight: 500;
     line-height: 16.41px;
@@ -47,11 +50,10 @@
 }
 
 .flex {
-    background-color: #2F303A;    
+    background-color: #2F303A;
 }
 
 .flex_title {
-    font-family: Roboto;
     font-size: 44px;
     font-weight: 900;
     line-height: 60px;
@@ -63,10 +65,10 @@
     color: #FFFFFF;
     text-transform: uppercase;
 }
+
 .flex_button {
     background-color: #2196F3;
     color: #FFFFFF;
-    font-family: Roboto;
     font-size: 16px;
     font-weight: 700;
     line-height: 30px;
@@ -84,6 +86,6 @@
     background: #2F303A;
 }
 
-.logo-footer{
+.logo-footer {
     color: #FFFFFF;
- }
+}
